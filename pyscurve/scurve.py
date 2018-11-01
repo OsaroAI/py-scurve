@@ -1,7 +1,7 @@
 import numpy as np
-from trajectory import Trajectory, PlanningError, EPSILON
-from trajectory import ACCELERATION_ID, SPEED_ID, POSITION_ID
-from planner import TrajectoryPlanner
+from pyscurve.trajectory import Trajectory, PlanningError, EPSILON
+from pyscurve.trajectory import ACCELERATION_ID, SPEED_ID, POSITION_ID
+from pyscurve.planner import TrajectoryPlanner
 import logging
 
 

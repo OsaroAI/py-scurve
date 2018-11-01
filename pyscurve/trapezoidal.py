@@ -1,5 +1,5 @@
-from trajectories import Trajectory, PlanningError, ACCELERATION_ID
-from trajectories import SPEED_ID, POSITION_ID
+from pyscurve.trajectories import Trajectory, PlanningError, ACCELERATION_ID
+from pyscurve.trajectories import SPEED_ID, POSITION_ID
 
 
 

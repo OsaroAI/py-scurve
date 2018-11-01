@@ -1,7 +1,7 @@
 import logging
 import os
-from scurve import ScurvePlanner
-from trajectory import Trajectory, plot_trajectory
+from pyscurve.scurve import ScurvePlanner
+from pyscurve.trajectory import Trajectory, plot_trajectory
 
 
 DEBUG = False
